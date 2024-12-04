@@ -8,7 +8,7 @@
 # RN (REGRAS DE NEGÓCIO)
 
 - [x] A transação deve ser do tipo crédito que somará ao valor total, ou débito que subtraíra;
-- [ ] Deve ser possível identificarmos o usuário entre as transações;
-- [ ] O usuário só deve visualizar transações a qual ele criou; 
+- [x] Deve ser possível identificarmos o usuário entre as transações;
+- [x] O usuário só deve visualizar transações a qual ele criou; 
 
 # RNF (REGRAS NÃO FUNCIONAIS)
